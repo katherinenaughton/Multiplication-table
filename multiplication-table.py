@@ -21,4 +21,6 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70for i in range(1, 11):
   8  16  24  32  40  48  56  64  72  80
 """
-    print(i, end="\n")
+for i in range(1,11):
+    print(i, end="")
+    
